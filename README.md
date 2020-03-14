@@ -11,6 +11,8 @@ import CsvLink from 'react-csv-export';
 ## Demo
 https://cicada1992.github.io/react-csv-export/
 
+Click the **Export CSV** Button in demo. You can see downloaded csv file.
+
 ## Props
 | Property | Type | Required? | Description | Default Value 
 |:---|:---|:---:|:---|:---|
