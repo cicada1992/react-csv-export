@@ -4,28 +4,13 @@ import CsvLink from "react-csv-export";
 import styled from "styled-components";
 
 const FAKE_DATA = [
-  {
-    id: "id-0",
-    name: "Youngjae",
-    age: 29,
-    country: "KOR"
-  },
+  { id: "id-0", name: "Youngjae", age: 29, country: "KOR" },
   { id: "id-1", name: "Kiook", age: 20, country: "JAP" },
   { id: "id-2", name: "Brian", age: 30, country: "USA" },
-  {
-    id: "id-3",
-    name: "Kisoo",
-    age: 41,
-    country: "DPR"
-  },
-  {
-    id: "id-4",
-    name: "Youngsik",
-    age: 51,
-    cvr: 0.4281,
-    country: "GER"
-  }
+  { id: "id-3", name: "Kisoo", age: 41, country: "DPR" },
+  { id: "id-4", name: "Youngsik", age: 51, country: "GER" }
 ];
+
 const Text = styled.span`
   font-size: 13px;
   color: #333333;

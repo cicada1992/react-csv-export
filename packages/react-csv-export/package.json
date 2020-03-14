@@ -1,6 +1,6 @@
 {
   "name": "react-csv-export",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This is react-csv-export for exporting data to csv file",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
